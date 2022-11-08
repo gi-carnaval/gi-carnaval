@@ -3,7 +3,7 @@
 ⚡ Fun fact:
 - 🔭 Atualmente trabalhando como FrontEnd Developer.
 - 🌱 Estudando ReactJs & NextJs.
-- 😀 Apaixonado por Senhor dos Anéis, ouvir música e viajar.
+- 😀 Fã de O Senhor dos Anéis, ouvir música e viajar.
 - 📸 Fotógrafo nas horas vagas.
 
 <div style="display: inline_block" align="center"><br>
