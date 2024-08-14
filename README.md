@@ -1,7 +1,7 @@
 ### Opa, tudo bem? Sou o Giovani Carnaval 👋
 
 ⚡ Fun fact:
-- 🔭 Atualmente trabalhando como FrontEnd Developer.
+- 🔭 Atualmente trabalhando como Desenvolvedor Frontend.
 - 🌱 Estudando ReactJs & NextJs.
 - 😀 Fã de O Senhor dos Anéis, ouvir música e viajar.
 - 📸 Fotógrafo nas horas vagas.
